@@ -1,0 +1,10 @@
+.footer {
+    max-width: 960px;
+    margin: auto;
+    }
+    @media(min-width:600px){
+        .footer{
+            color: red
+        }
+        
+}
